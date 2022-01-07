@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Reflection.AssemblyDescription("TNT Configuration")]
-[assembly: System.Reflection.AssemblyInformationalVersion("1.3.2.0-2201031003")]
+[assembly: System.Reflection.AssemblyInformationalVersion("1.3.2.0-2201062017")]
 [assembly: System.Reflection.AssemblyCompany("Tripp\'n Technology, LLC.")]
 [assembly: System.Reflection.AssemblyConfiguration("Debug")]
 [assembly: System.Reflection.AssemblyProduct("TNT Configuration")]
